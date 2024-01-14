@@ -11,10 +11,12 @@ Explore the distribution of continuous variables like 'bill_length_mm' and 'bill
 Use a violin plot to visualize the body mass distribution across different penguin species.
 
 Multivariate Analysis:
+
 Compute and visualize the correlation matrix.
 Generate a heatmap to represent the correlation values between different continuous variables.
 
 Bivariate Analysis:
+
 Explore the relationship between 'body_mass_g' and 'flipper_length_mm' using a scatter plot.
 Visualize the distribution of flipper length based on sex and species using a bar plot.
 Utilize a point plot to compare flipper length across different penguin species.
